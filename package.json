@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.21",
+    "modern-async": "^1.0.3",
     "node-fetch": "^2.6.1"
   }
 }
